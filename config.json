@@ -1,0 +1,9 @@
+
+{
+    "prefix": ".",
+    "token": "TOKEN",  
+    "dono": "SEU ID (OBRIGATORIO PRA DIV)",
+    "botid": "(ID DO BOT CASO USE BOT EM VEZ DE CONTA NA DIV)", 
+    "status": "Ligando..."
+  }
+
